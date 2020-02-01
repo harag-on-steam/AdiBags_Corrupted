@@ -1,0 +1,10 @@
+## Interface: 80300
+
+## Title: AdiBags - Filter for corrupted items
+## Notes: Adds a filter for corrupted items to AdiBags.
+## Author: Harag
+## Version: 0.1.0
+
+## Dependencies: AdiBags
+
+AdiBags_Corrupted.lua
